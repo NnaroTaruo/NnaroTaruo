@@ -57,7 +57,6 @@
 | **Tools** | Git, GitHub, VS Code |
 | **Design** | Figma, Framer |
 
----
 <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=8B5CF6&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=45&amp;lines=%F0%9F%A4%96+AI+Tools"
@@ -114,6 +113,8 @@
     </td>
   </tr>
 </table>
+---
+
 
 <p align="left">
   <img
