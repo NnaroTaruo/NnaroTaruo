@@ -58,6 +58,62 @@
 | **Design** | Figma, Framer |
 
 ---
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=8B5CF6&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=45&amp;lines=%F0%9F%A4%96+AI+Tools"
+    alt="AI Tools"
+  />
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg"
+        width="48"
+        height="48"
+        alt="OpenAI Codex logo"
+      /><br>
+      <strong>Codex</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg"
+        width="48"
+        height="48"
+        alt="Claude logo"
+      /><br>
+      <strong>Claude</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg"
+        width="48"
+        height="48"
+        alt="Gemini logo"
+      /><br>
+      <strong>Gemini</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg"
+        width="48"
+        height="48"
+        alt="Google Antigravity logo"
+      /><br>
+      <strong>Antigravity</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/kiro-color.svg"
+        width="48"
+        height="48"
+        alt="Kiro AI logo"
+      /><br>
+      <strong>Kiro AI</strong>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img
