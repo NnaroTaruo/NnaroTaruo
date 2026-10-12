@@ -18,7 +18,8 @@
 
 <p align="center">
   I am learning how networks are designed, configured, secured, and troubleshot.<br>
-  I also enjoy software development as a hobby and build small, useful projects.
+  I also enjoy software development as a hobby and build small, useful projects.<br>
+  I am also an <strong>IoT hobbyist</strong>.
 </p>
 
 ---
