@@ -19,7 +19,8 @@
 | Category | Technologies |
 |---|---|
 | **Frontend** | HTML, CSS, JavaScript, Tailwind CSS |
-| **Backend** | PHP, Laravel, MySQL, REST APIs |
+| **Backend** | PHP, Laravel, REST APIs, C# and .NET *(currently learning)* |
+| **Databases** | MySQL, MongoDB *(currently learning)* |
 | **Mobile** | React Native |
 | **Tools** | Git, GitHub, VS Code |
 | **Design** | Figma, Framer |
@@ -54,6 +55,8 @@
 ### 🌱 Currently Learning
 
 - Software engineering fundamentals, testing, and debugging
+- C# and .NET for backend development
+- MongoDB for NoSQL database design and development
 - Full-stack development with Laravel and React Native
 - AI integration through APIs and workflow automation
 - IoT and embedded systems through hands-on projects
