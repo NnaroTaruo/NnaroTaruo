@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2500&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=70&amp;lines=Hi%2C+I%27m+Ronan+Antoque%21" alt="Hi, I'm Ronan Antoque!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2500&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=70&amp;lines=Hi%2C+I%27m+Ronan+Antoque%21+%F0%9F%87%B5%F0%9F%87%AD" alt="Hi, I'm Ronan Antoque! 🇵🇭" />
 </p>
 
 <p align="center">
@@ -20,7 +20,8 @@
 |---|---|
 | **Frontend** | HTML, CSS, JavaScript, Tailwind CSS |
 | **Backend** | PHP, Laravel, REST APIs, C# and .NET *(currently learning)* |
-| **Databases** | MySQL, MongoDB *(currently learning)* |
+| **Languages I'm Learning** | Ruby, Go (Golang) |
+| **Databases** | MySQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="22" height="22" alt="MongoDB logo" /> MongoDB *(currently learning)* |
 | **Mobile** | React Native |
 | **Tools** | Git, GitHub, VS Code |
 | **Design** | Figma, Framer |
@@ -57,6 +58,8 @@
 - Software engineering fundamentals, testing, and debugging
 - C# and .NET for backend development
 - MongoDB for NoSQL database design and development
+- Ruby fundamentals and object-oriented programming
+- Go (Golang) fundamentals and backend development
 - Full-stack development with Laravel and React Native
 - AI integration through APIs and workflow automation
 - IoT and embedded systems through hands-on projects
