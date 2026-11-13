@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="242" viewBox="0 0 960 242" role="img" aria-labelledby="title">
-  <title id="title">400 contributions in the last year for NnaroTaruo</title>
+  <title id="title">401 contributions in the last year for NnaroTaruo</title>
   <style>
     .swell { animation: roll 7s linear infinite; }
     @keyframes roll {
@@ -22,7 +22,7 @@
   </defs>
   <rect width="960" height="242" rx="12" fill="url(#wash)"/>
   <circle cx="38" cy="31" r="7" fill="#e6b34d"/>
-  <text x="55" y="37" fill="#ffe6b5" font-family="system-ui, sans-serif" font-size="19" font-weight="650">400 contributions in the last year</text>
+  <text x="55" y="37" fill="#ffe6b5" font-family="system-ui, sans-serif" font-size="19" font-weight="650">401 contributions in the last year</text>
   <g fill="#ead5ac" font-family="system-ui, sans-serif" font-size="13">
     <text x="31" y="65">Nov</text>
 <text x="82" y="65">Dec</text>
