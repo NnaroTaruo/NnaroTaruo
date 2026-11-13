@@ -66,8 +66,20 @@
 - AI integration through APIs and workflow automation
 - IoT and embedded systems through hands-on projects
 
+### GitHub Contributions
+
+<p align="center">
+  <a href="https://github.com/NnaroTaruo#contribution-activity">
+    <img src="./assets/nnarotaruo-contributions.svg" width="960" alt="My GitHub contribution calendar for the past year, with a wave of light moving over the grid" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
   <em>Understand the code. Build with purpose. Keep learning.</em>
+</p>
+
+<p align="center">
+  <img src="./assets/nnarotaruo-footer.gif" width="960" alt="Chicken Joe surfing teal waves beneath an orange sunset" />
 </p>

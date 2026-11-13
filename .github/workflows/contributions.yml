@@ -1,0 +1,41 @@
+name: Refresh contribution chart
+
+on:
+  schedule:
+    - cron: '27 20 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/render-contributions.py
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-chart
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+      - name: Render GitHub's public contribution calendar
+        shell: bash
+        run: |
+          curl --fail --silent --show-error --retry 2 --max-time 30 \
+            https://github.com/users/NnaroTaruo/contributions |
+            python3 .github/scripts/render-contributions.py
+      - name: Publish chart
+        run: |
+          git add -- assets/nnarotaruo-contributions.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh contribution chart'
+          git pull --rebase origin main
+          git push origin HEAD:main
