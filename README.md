@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2500&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=70&amp;lines=Hi%2C+I%27m+Ronan+Antoque%21+%F0%9F%87%B5%F0%9F%87%AD" alt="Hi, I'm Ronan Antoque! 🇵🇭" />
+  <img src="./assets/nnarotaruo-surf.gif" width="960" alt="NnaroTaruo in vintage soul lettering beside Chicken Joe surfing a rolling wave at sunset" />
 </p>
 
+<h1 align="center">Hi, I’m Ronan Antoque 🇵🇭</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;lines=Aspiring+AI+Software+Engineer;Web+and+Mobile+Developer;IoT+Hobbyist" alt="Aspiring AI Software Engineer, Web and Mobile Developer, IoT Hobbyist" />
+  <strong>Aspiring AI Software Engineer · Web and Mobile Developer · IoT Hobbyist</strong>
 </p>
 
 <p align="center">
@@ -68,8 +70,4 @@
 
 <p align="center">
   <em>Understand the code. Build with purpose. Keep learning.</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B26,50:8B5CF6,100:06B6D4&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%" alt="Animated wave footer" />
 </p>
