@@ -2,7 +2,9 @@
   <img src="./assets/nnarotaruo-surf.gif" width="960" alt="NnaroTaruo in vintage soul lettering beside Chicken Joe surfing a rolling wave at sunset" />
 </p>
 
-<h1 align="center">Hi, I’m Ronan Antoque 🇵🇭</h1>
+<h1>
+  <img src="./assets/ronan-antoque.gif" width="960" alt="Hi, I’m Ronan Antoque 🇵🇭" />
+</h1>
 
 <p align="center">
   <strong>Aspiring AI Software Engineer · Web and Mobile Developer · IoT Hobbyist</strong>
@@ -14,9 +16,10 @@
   Exploring software engineering, AI integration, and IoT projects.
 </p>
 
----
-
-### 💻 Tech Stack
+<a name="tech-stack"></a>
+<h2>
+  <img src="./assets/tech-stack.gif" width="960" alt="Tech Stack" />
+</h2>
 
 | Category | Technologies |
 |---|---|
@@ -28,7 +31,10 @@
 | **Tools** | Git, GitHub, VS Code |
 | **Design** | Figma, Framer |
 
-### 🤖 AI Tools
+<a name="ai-tools"></a>
+<h2>
+  <img src="./assets/ai-tools.gif" width="960" alt="AI Tools" />
+</h2>
 
 <table>
   <tr>
@@ -55,7 +61,10 @@
   </tr>
 </table>
 
-### 🌱 Currently Learning
+<a name="currently-learning"></a>
+<h2>
+  <img src="./assets/currently-learning.gif" width="960" alt="Currently Learning" />
+</h2>
 
 - Software engineering fundamentals, testing, and debugging
 - C# and .NET for backend development
